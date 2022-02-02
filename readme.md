@@ -1,3 +1,3 @@
-# _Rust Programming Language - book examples
+# _Rust Programming Language_ book examples
 
 Book: https://doc.rust-lang.org/book/
